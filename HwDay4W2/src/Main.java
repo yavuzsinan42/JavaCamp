@@ -14,7 +14,7 @@ public class Main {
 		Customer customer = new Customer(1,"Yavuz Sinan","Aydemir",LocalDate.of(1998, 1, 22),"41111111111");
 		
 		
-		
+		 
 		customerManager.save(customer);
 	}
  
