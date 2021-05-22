@@ -6,3 +6,4 @@ public abstract class BaseCustomerManager implements ICustomerService {
 		System.out.println("Saved to db : "+ customer.getFirstName());
 	}
 }
+ 

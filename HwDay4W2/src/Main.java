@@ -2,7 +2,6 @@ import java.time.LocalDate;
 
 import Abstract.BaseCustomerManager;
 import Adapter.MerniceServiceAdapter;
-import Concrete.CustomerCheckManager;
 import Concrete.StarbucksCustomerManager;
 import Entities.Customer;
 
